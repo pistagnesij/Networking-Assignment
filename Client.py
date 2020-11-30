@@ -1,5 +1,5 @@
 import socket
-#create socket
+##create socket
 client=socket.socket()
 
 #get ip
